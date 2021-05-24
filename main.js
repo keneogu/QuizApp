@@ -1,0 +1,41 @@
+const quizContain = [
+  {
+    question: "How old is Kene",
+    a: "10",
+    b: "17",
+    c: "26",
+    d: "110",
+    correct: "c",
+  },
+  {
+    question: "What is the best programming language",
+    a: "Java",
+    b: "C",
+    c: "Python",
+    d: "JavaScript",
+    correct: "d",
+  },
+  {
+    question: "Who is the president of US",
+    a: "Kene Ogu",
+    b: "Abeid Ahmed",
+    c: "Amit kumar",
+    d: "Uduak John",
+    correct: "a",
+  },
+  {
+    question: "What does HTML stand for?",
+    a: "Hypertext Makrup Language",
+    b: "Cascading Style Sheet",
+    c: "Jason Object Notation",
+    d: "Application Progamming Interface",
+  },
+  {
+    question: "What year was JAvascript launched?",
+    a: "1994",
+    b: "1996",
+    c: "1995",
+    d: "none of the above",
+    corret: "d",
+  },
+];
