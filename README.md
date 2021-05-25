@@ -25,7 +25,7 @@ Quiz App web app allows users to test their knowledge.
 
  ## Screenshot
 
-![img](Screenshot from 2021-05-25 15-10-47.png)
+![ScreenShot](image/quizapp.png)
 
 ## Built With 🛠
 
