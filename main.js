@@ -29,6 +29,7 @@ const quizData = [
     b: "Cascading Style Sheet",
     c: "Jason Object Notation",
     d: "Application Progamming Interface",
+    correct: "a",
   },
   {
     question: "What year was JAvascript launched?",
@@ -36,7 +37,7 @@ const quizData = [
     b: "1996",
     c: "1995",
     d: "none of the above",
-    corret: "d",
+    correct: "d",
   },
 ];
 
