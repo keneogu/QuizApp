@@ -4,33 +4,34 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>QuizApp</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <div class="quiz-container">
-      <h2>Question Text</h2>
+    <div class="quiz-container" id="quiz">
+      <h2 id="question">Question Text</h2>
       <ul>
-        <li>
-          <input type="radio" id="a" name="answer" /><label for="a"
+        <li> 
+          <input type="radio" id="a" name="answer" class="answer"/><label id="a_text" for="a"
             >Question</label
           >
         </li>
         <li>
-          <input type="radio" id="b" name="answer" /><label for="b"
+          <input type="radio" id="b" name="answer" class="answer"/><label id="b_text" for="b"
             >Question</label
           >
         </li>
         <li>
-          <input type="radio" id="c" name="answer" /><label for="c"
+          <input type="radio" id="c" name="answer" class="answer"/><label id="c_text" for="c"
             >Question</label
           >
         </li>
         <li>
-          <input type="radio" id="d" name="answer" /><label for="d"
+          <input type="radio" id="d" name="answer" class="answer"/><label id="d_text" for="d"
             >Question</label
           >
         </li>
       </ul>
-      <button>Submit</button>
+      <button id="submit">Submit</button>
     </div>
     <script src="main.js"></script>
   </body>
